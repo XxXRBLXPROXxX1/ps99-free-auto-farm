@@ -1,4 +1,2 @@
-Username = "RealGmer1_YT" 
-loadingscreen = true 
-farmui = true 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))() 
+loadstring(game:HttpGet("https://github.com/XxXRBLXPROXxX1/ps99-free-auto-farm/blob/main/free%20ps99%20auto-farm"))()
+
